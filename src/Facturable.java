@@ -1,3 +1,4 @@
 public interface Facturable {
-    void
+    void generarFactura();
+
 }
